@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aaryan R. Patel! I am 13 years old! I am a "graduated" 7th grader moving onto 8th grade and participating in the Algebra 1/Honors Algebra section of my school
+# 👋 Hi, I’m Aaryan R. Patel
 - 👀 I’m interested in programming and mathematics (wishing to help analyze data for marketing and business purposes when older)
 - 🌱 I’m currently learning the basics of Machine Learning and Data Science using Coursera courses (obviously) and learning how to deal with TensorFlow APIs (super cool :O).
 - 💞️ I soon want to collab with a sort of teacher and friend of mine, Rishit-Dagli!
