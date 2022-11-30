@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic) ![](https://img.shields.io/badge/-SQL-black?logo=(N/A)=plastic) ![](https://img.shields.io/badge/-Tensorflow-black?logo=tensorflow&style=plastic)
 
 ## Things I'm tryna learn
-![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic) ![](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=plastic) ![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)
+![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic) ![](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=plastic) ![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic) ![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)
 
 > Goals For 2023:
 - Learn about the Cloud and some of its common services (AWS, GCP, Azure)
