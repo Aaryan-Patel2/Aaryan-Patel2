@@ -20,6 +20,9 @@
 ### 📫 How to reach me
 -Discord: bozowhocodes#4061
 
+[![Aaryan's github stats](https://github-readme-stats.vercel.app/api?username=Aaryan-Patel2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Aaryan-Patel2)
+
+
 <!---
 Aaryan-Patel2/Aaryan-Patel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
