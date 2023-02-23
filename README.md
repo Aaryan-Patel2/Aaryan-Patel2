@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aaryan
+# 👋 Hi, I’m Aaryan! Age: 14!
 
 - I like to code
 - I like math
@@ -18,7 +18,10 @@
 - Contribute more to open source wherever I go
 
 ### 📫 How to reach me
--Discord: bozowhocodes#4061
+- Discord: bozowhocodes#4061 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  height="30" width="40" /></a>
+
+- LinkedIn: Aaryan Patel <a href="https://www.linkedin.com/in/aaryan-patel-2392a7243/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.Cn9SAHCmTy8MEaixr8bqpAHaHa?pid=ImgDet&rs=1" alt="https://discord.gg/JjWEVXttFR" height="30" width="30" /></a>
+
 
 [![Aaryan's github stats](https://github-readme-stats.vercel.app/api?username=Aaryan-Patel2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Aaryan-Patel2)
 
