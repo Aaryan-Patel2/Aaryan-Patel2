@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aaryan! Age: 14!
+# 👋 Hi, I’m Aaryan! 
 
 - I like to code
 - I like math
