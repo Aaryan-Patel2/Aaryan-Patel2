@@ -23,9 +23,6 @@
 - LinkedIn: Aaryan Patel <a href="https://www.linkedin.com/in/aaryan-patel-2392a7243/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.Cn9SAHCmTy8MEaixr8bqpAHaHa?pid=ImgDet&rs=1" alt="https://discord.gg/JjWEVXttFR" height="30" width="30" /></a>
 
 
-[![Aaryan's github stats](https://github-readme-stats.vercel.app/api?username=Aaryan-Patel2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Aaryan-Patel2)
-
-
 <!---
 Aaryan-Patel2/Aaryan-Patel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
