@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Aaryan! 
-
-- I like to code
-- I like math
-- Interested in ML/AI
+- Currently a sophomore @ Saugus High School (CA)
+- Works with vision AI and deep learning
+- Intern/Research @OpenNLP
 <img src='https://www.bing.com/th?id=OIP.jQh6JFYXJ3bU2yx6bGM9MwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2' style='width: 300px;' align='right'/>
 
 
